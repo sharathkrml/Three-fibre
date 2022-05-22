@@ -36,3 +36,6 @@
     transform: rotate(360deg);
   }
 }
+.Canvas {
+  height: 100vh!important;
+}
